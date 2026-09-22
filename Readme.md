@@ -11,22 +11,22 @@ Ledger Sync processes financial notifications from multiple channels, normalizes
 
 ## Table of Contents
 
-- [Overview]
-- [Key Capabilities]
-- [Quick Start]
-  - [Pure JDK Verification]
-  - [Run the Test Suite]
-  - [Generate Submission Artifacts]
-  - [Run DynamoDB Local]
-- [Submission Deliverables]
-- [Architecture & Document Store]
-  - [Why DynamoDB]
-  - [Single-Table Design]
-  - [Scale Benchmark]
-- [Corpus-A Reconciliation]
-- [Technical Decision Log]
-- [AI Disclosure & Collaboration]
-- [Known Limitations & Future Roadmap]
+- Overview
+- Key Capabilities
+- Quick Start
+  - Pure JDK Verification
+  - Run the Test Suite
+  - Generate Submission Artifacts
+  - Run DynamoDB Local
+- Submission Deliverables
+- Architecture & Document Store
+  - Why DynamoDB
+  - Single-Table Design
+  - Scale Benchmark
+- Corpus-A Reconciliation
+- Technical Decision Log
+- AI Disclosure & Collaboration
+- Known Limitations & Future Roadmap
 
 ---
 
